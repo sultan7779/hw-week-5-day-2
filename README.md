@@ -1,14 +1,14 @@
 # Javascript Homework
 
 1.  Variables
-- https://www.youtube.com/watch?v=cXUWYZXru6o (7 min video)
-- https://www.codeanalogies.com/jsconstruction/ (interactive game)
+    - https://www.youtube.com/watch?v=cXUWYZXru6o (7 min video)
+    - https://www.codeanalogies.com/jsconstruction/ (interactive game)
 
 2.  Conditions
-- https://blog.codeanalogies.com/2018/06/18/javascript-booleans-explained-by-going-to-court/
+    - https://blog.codeanalogies.com/2018/06/18/javascript-booleans-explained-by-going-to-court/
 
 3.  Functions
-- https://www.codeanalogies.com/javascript-functions-explained
+    - https://www.codeanalogies.com/javascript-functions-explained
 
 ## Activity Assignment
 Without running the following code, try to determine:
@@ -66,7 +66,7 @@ const num2 = 10;
 ### Your solution here:
 5.  How can we make `num3` equal to the sum of `num1` and `num2`?
 ```js
-
+// your solution here
 ```
 6.  Use variables `num1`, `num2` and `num3` to fill in the `console.log()` to complete the sentence `The sum of 5 and 10 is 15`:
 ```js
@@ -86,7 +86,7 @@ g) 81 / 9 == 9
 h) 9 != 8 + 1
 ```
 ### Your solution here:
-7.  
+7.  Write `true` or `false` based on the list above
 ```
 a) 
 b)  
@@ -115,7 +115,13 @@ Write a conditional statement that...
 
 #### BONUS
 9.  Research a for loop so that your condition runs on every number from 0 to 100
+```js
+// your answer here
+```
 10.  Research a function so that your condition runs on every number from 0 to any number passed into the function
+```js
+// your answer here
+```
 
 # Additional Resources
 For more practice read about...
