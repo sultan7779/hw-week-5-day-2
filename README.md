@@ -68,7 +68,8 @@ const num2 = 10;
 ```js
 // your solution here
 ```
-6.  Use variables `num1`, `num2` and `num3` to fill in the `console.log()` to complete the sentence `The sum of 5 and 10 is 15`:
+6.  Use variables `num1`, `num2` and `num3` to fill in the `console.log()` to complete the sentence 
+`The sum of 5 and 10 is 15`:
 ```js
 console.log()
 ```
