@@ -77,13 +77,13 @@ console.log()
 By just looking at the following expressions, determine in your mind whether or not each will evaluate to true or false
 ```
 a) 999 > 999
-b) 999 == 999 
-c) 999 != 999
+b) 999 === 999 
+c) 999 !== 999
 d) -5 >= -4
 e) 100 <= -100
 f) 20 + 5 < 5 
-g) 81 / 9 == 9
-h) 9 != 8 + 1
+g) 81 / 9 === 9
+h) 9 !== 8 + 1
 ```
 ### Your solution here:
 7.  Write `true` or `false` based on the list above
