@@ -114,11 +114,11 @@ Write a conditional statement that...
 ```
 
 #### BONUS
-9.  Research a for loop so that your condition runs on every number from 0 to 100
+9.  Research a [loop](https://javascript.info/while-for) so that your condition runs on every number from 0 to 100
 ```js
 // your answer here
 ```
-10.  Research a function so that your condition runs on every number from 0 to any number passed into the function
+10.  Research a [function](https://javascript.info/function-basics) so that your condition runs on every number from 0 to whatever number is passed into the function
 ```js
 // your answer here
 ```
